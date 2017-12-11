@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*.png
+!*.[sS]
+!*.h
+!*.icf
